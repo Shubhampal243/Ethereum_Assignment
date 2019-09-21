@@ -7,3 +7,5 @@ Truffle v4.1.16 (core: 4.1.16)
 Solidity v0.4.26 (solc-js)
 
 Test network used : Ropsten
+
+Smart contract : contracts/ProductSmart.sol
